@@ -4,7 +4,7 @@ Python 101 challenges are often posted in the Python Facebook group.
 
 I have completed a selection of these as Python brainteasers to test my skills.
 
-Each challenge has been uploaded as a PDF file along with a corresponding .PY file with my solution.
+Each challenge has been uploaded as a .JPEG file along with a corresponding .PY file with my solution.
 
 Completed challegnes:
 
