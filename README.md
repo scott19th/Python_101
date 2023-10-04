@@ -11,3 +11,4 @@ Completed challegnes:
 > Cities World Tour - challenge to count the number of unique countries visited in the data set.
 > Sales Revenue Calculator - Challenge to calculate total revenue from a sales report
 > Shopping Cart Organiser - Challenge to create a shopping cart calculator which provides a total based on what items are included from the product database
+> Fill The Bus - Challenge to find all the combinations of 3 which would fill a bus of 15 people from a list of groups
